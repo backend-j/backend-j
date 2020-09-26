@@ -1,5 +1,4 @@
 ### Web & Java & Backend Developer 
-[![HitCount](http://hits.dwyl.com/backend-j/l-board.svg)](http://hits.dwyl.com/backend-j/l-board)
 - 2014.05 ~ 
 
 
